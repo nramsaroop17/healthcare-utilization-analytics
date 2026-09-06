@@ -1,0 +1,6 @@
+Quality Check,Records Flagged
+Duplicate patient IDs,0
+Duplicate encounter IDs,0
+Missing encounter patient IDs,0
+Invalid patient references,0
+Negative encounter durations,0
