@@ -124,7 +124,7 @@ I connected Power BI directly to the PostgreSQL reporting views and built a 3-pa
 ---
 
 ## Project Structure
-
+```text
 healthcare-utilization-analytics/
 │
 ├── data/
@@ -152,7 +152,7 @@ healthcare-utilization-analytics/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ## What I Took Away From the Project
 
 The most useful part of this project was working across the full analytics workflow instead of treating Python, SQL, and Power BI as separate exercises.
